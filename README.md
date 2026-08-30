@@ -70,4 +70,11 @@ Then = LQX......?
 your answer:24
 correct
 
+ #  Author
+Yasvi Savaliya
+Python Developer/ Student
+ #  License
+This project is created for educational purposes and is free to use and modify.
+# Happy Coding!#
+
 
