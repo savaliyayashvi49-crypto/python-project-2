@@ -48,4 +48,26 @@ Logic_Box_Project/
 ├── project-2 logic box.py    # Main Python program
 └── README.md                 # Project documentation
 
+# sample output
+========================================
+mind pattern detective
+========================================
+LEVEL-01 Number DNA
+find the missing numbers
+1,2,6,21,110...?
+your answer:771
+correct
+ LEVEL-02
+find the missing number:
+369121518what comes next?
+your answer:23
+ wrong! right answer is 21
+LEVEL-03 HIDDEN RULE
+a=1
+b=2
+c=3
+Then = LQX......?
+your answer:24
+correct
+
 
