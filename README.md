@@ -1,5 +1,6 @@
 # python-project-2
 # 🧠 Mind Pattern Detective
+# EXPLANATION VIDEO
 
 📌 Project Overview
 -------------------
