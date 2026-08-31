@@ -8,6 +8,7 @@ Logic Box is a simple Python project that helps users understand **patterns and 
 The project contains two pattern challenges:
 1. **Pattern Logic**
 2. **Butterfly Pattern**
+3. **Dimond pattern**
 
 The user enters a number, and Python generates the pattern according to hidden rules.
 
@@ -51,7 +52,13 @@ For input `5`:
 The second section creates a simple butterfly-style pattern using `for` loops and an even/odd condition.
 
 It demonstrates how the same loop can be used to create different visual patterns.
-
+## diamound pattern
+       *
+     * * *
+    * * * *
+     * * * 
+       *
+    
 ## ▶️ How to Run
 1. Install Python 3.
 2. Open the project file.
